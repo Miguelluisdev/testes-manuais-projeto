@@ -1,7 +1,7 @@
 # 📱 Projeto: App de Podcast — Testes Manuais & Documentação
 
 ## 🎯 Objetivo  
-Praticar análise, execução e documentação de testes manuais em um app mobile, seguindo o ciclo completo do **SDLC (Software Development Life Cycle)** com apoio da metodologia **Scrum** e ferramentas como **Jira** e **Figma**.
+Praticar análise, execução e documentação de testes manuais em um app mobile, seguindo o ciclo completo do **SDLC (Software Development Life Cycle)** com apoio da metodologia **Kanban** e ferramentas como **Jira** e **Figma**.
 
 ---
 
@@ -65,10 +65,8 @@ Praticar análise, execução e documentação de testes manuais em um app mobil
 ---
 
 ## 🌀 Metodologia
-- **Scrum**
-  - Planejamento de *sprints* semanais
-  - *Daily stand-ups* (anotações de progresso diárias)
-  - *Sprint review* e *retrospectiva* ao final de cada ciclo
+- **Kanban**
+
 
 ---
 
